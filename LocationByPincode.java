@@ -13,7 +13,6 @@ public class LocationByPincode {
 		{
 			String name="Daringbadi, orissa";
 			System.out.println("The location name=  "+name);
-		}else
-			System.out.println("Invalid pincode");
+		}
 	}
 }
